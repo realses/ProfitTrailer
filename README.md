@@ -1,4 +1,4 @@
-# ProfitTrailer
+# ProfitTrailer Latest
 Operating system for Windows
 
 Please make sure to backup your data before upgrading.
