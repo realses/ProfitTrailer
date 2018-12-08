@@ -45,10 +45,6 @@ Operating System:
 
 ## Steps to Reproduce
 <!--- If able, tell us how to reproduce this bug. -->
-1.
-2.
-3.
-4.
 
 ## Configuration
 <!--- Many issues are caused by incorrect configurations -->
