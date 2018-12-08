@@ -1,4 +1,4 @@
-# ProfitTrailer Latest
+# ProfitTrailer Latest Version
 
 We trail the trends!
 
