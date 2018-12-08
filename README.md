@@ -1,29 +1,16 @@
 # ProfitTrailer Latest
-Operating system for Windows
 
-Please make sure to backup your data before upgrading.
-Change log
+We trail the trends!
+Join the Discord group
 
-    Fixes
-        Add support for PAX market on Binance
-        Small fixes
+If you have questions after reading the readme
+Main Channel
 
-Check the wiki for the full list of available features and settings
+https://discord.gg/K9a37Vh
+Check out the wiki
 
-    https://wiki.profittrailer.com
+https://wiki.profittrailer.com
+How to run
 
-Compatibility
-
-    Operating system
-        Windows
-        Linux
-        MacOS
-
-    Browsers
-        Chrome
-        Firefox
-        Safari
-        Edge (Limited)
-
-    ProfitTrailer follows https://semver.org/
+https://wiki.profittrailer.com/doku.php/instructions
 
